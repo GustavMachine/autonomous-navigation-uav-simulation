@@ -92,32 +92,24 @@ El sistema se organiza en 4 capas:
 ---
 
 ## 💻 Software y Dependencias
-
+```bash
+# ROS2 Humble instalado
+# Gazebo Classic 11 instalado
+# Cartographer ROS2 instalado
+```
 # 1) Sistema base
-# Ubuntu 22.04 (nativo o WSL2 recomendado)
-lsb_release -a
-# 2) ROS2
-# ROS2 Humble Hawksbill
-sudo apt update
-sudo apt install ros-humble-ros-base ros-humble-sensor-msgs ros-humble-rclpy
-# Sourcear ROS2 (agregar al ~/.bashrc)
-source /opt/ros/humble/setup.bash
-# 3) Simulación
-# Gazebo Classic 11
-sudo apt install gazebo11
-# Integración ROS2–Gazebo
-sudo apt install ros-humble-gazebo-ros-pkgs
-# 4) SLAM
-# Google Cartographer para ROS2
-sudo apt install ros-humble-cartographer \
+# Ubuntu 22.04 
+# sudo apt update
+# sudo apt install ros-humble-ros-base ros-humble-sensor-msgs ros-humble-rclpy
+# source /opt/ros/humble/setup.bash
+# sudo apt install gazebo11
+# sudo apt install ros-humble-gazebo-ros-pkgs
+# sudo apt install ros-humble-cartographer \
                  ros-humble-cartographer-ros \
                  ros-humble-cartographer-ros-msgs
-# 5) Dependencias Python (Fase 1 y Fase 2)
-# Manejo numérico y mapas
-pip install numpy pillow pyyaml
-# (Opcional pero recomendado)
-pip install matplotlib
-
+# pip install numpy pillow pyyaml
+# pip install matplotlib
+```
 ---
 
 ## 🚀 Ejecución
