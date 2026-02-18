@@ -165,8 +165,6 @@ Se ejecutaron 3 corridas experimentales con 3 pasadas cada una:
 
 ### Fase 2 — Inspección de Paredes
 
-![Algoritmo de Navegación](docs/figuras/diagrama_flujo_navegacion.png)
-
 | Parámetro | Valor |
 |-----------|-------|
 | Waypoints totales | 142 |
@@ -181,8 +179,6 @@ Se ejecutaron 3 corridas experimentales con 3 pasadas cada una:
 | Secciones inspeccionadas | 18 de 19 (94.7%) |
 
 ### Sistema de Control
-
-![Sistema de Control](docs/figuras/diagrama_control.png)
 
 El sistema utiliza un modelo cinemático con bucle de control TURN-THEN-MOVE y seguridad reactiva de doble barrera (LiDAR + mapa de ocupación).
 
