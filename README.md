@@ -68,15 +68,10 @@ El sistema se organiza en 4 capas:
 │
 ├── docs/
 │   ├── figuras/
-│   │   ├── diagrama_arquitectura.png
-│   │   ├── diagrama_control.png
-│   │   └── diagrama_flujo_navegacion.png
-│   │
-│   └── scripts_figuras/
-│       ├── diagrama_arquitectura.py
-│       ├── diagrama_control.py
-│       └── diagrama_flujo_navegacion.py
-│
+│       ├── diagrama_arquitectura.png
+│       ├── diagrama_control.png
+│       └── diagrama_flujo_navegacion.png
+│  
 └── mapa/
     ├── mapa_ocupacion.pgm            # Mapa 2D generado por Cartographer
     └── mapa_ocupacion.yaml           # Metadatos del mapa
