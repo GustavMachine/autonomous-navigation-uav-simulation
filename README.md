@@ -202,6 +202,6 @@ Este proyecto es parte de una tesis académica de la PUCP. Uso exclusivamente ed
 
 ## 👤 Autor
 
-**[Tu nombre completo]**
+**[Gustavo Diego Espinoza Herrera]**
 Pontificia Universidad Católica del Perú
 Facultad de Ciencias e Ingeniería
