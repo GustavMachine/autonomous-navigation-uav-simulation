@@ -98,6 +98,7 @@ El sistema se organiza en 4 capas:
 # Cartographer ROS2 instalado
 ```
 # 1) Sistema base
+```bash
 Ubuntu 22.04 
 sudo apt update
 sudo apt install ros-humble-ros-base ros-humble-sensor-msgs ros-humble-rclpy
@@ -113,13 +114,6 @@ pip install matplotlib
 ---
 
 ## 🚀 Ejecución
-
-### Requisitos previos
-
-```bash
-# ROS2 Humble instalado
-# Gazebo Classic 11 instalado
-# Cartographer ROS2 instalado
 ```
 
 ### Terminal 1 — Simulador
