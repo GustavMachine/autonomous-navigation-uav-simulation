@@ -75,6 +75,7 @@ El sistema se organiza en 4 capas:
 └── mapa/
     ├── mapa_ocupacion.pgm            # Mapa 2D generado por Cartographer
     └── mapa_ocupacion.yaml           # Metadatos del mapa
+    └── tunnel_multipass.pbstream           # Metadatos del mapa
 ```
 
 ---
