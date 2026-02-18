@@ -98,17 +98,17 @@ El sistema se organiza en 4 capas:
 # Cartographer ROS2 instalado
 ```
 # 1) Sistema base
-# Ubuntu 22.04 
-# sudo apt update
-# sudo apt install ros-humble-ros-base ros-humble-sensor-msgs ros-humble-rclpy
-# source /opt/ros/humble/setup.bash
-# sudo apt install gazebo11
-# sudo apt install ros-humble-gazebo-ros-pkgs
-# sudo apt install ros-humble-cartographer \
+Ubuntu 22.04 
+sudo apt update
+sudo apt install ros-humble-ros-base ros-humble-sensor-msgs ros-humble-rclpy
+source /opt/ros/humble/setup.bash
+sudo apt install gazebo11
+sudo apt install ros-humble-gazebo-ros-pkgs
+sudo apt install ros-humble-cartographer \
                  ros-humble-cartographer-ros \
                  ros-humble-cartographer-ros-msgs
-# pip install numpy pillow pyyaml
-# pip install matplotlib
+pip install numpy pillow pyyaml
+pip install matplotlib
 ```
 ---
 
