@@ -1,0 +1,18 @@
+============================================================
+EXPLORACIÓN AUTÓNOMA — MÉTRICAS
+============================================================
+Fecha: 2026-02-16 21:35:50
+Pasadas: 3
+Steps totales: 360
+Distancia total: 82.4m
+Tiempo total: 337.6s (5.6min)
+Velocidad promedio: 0.244 m/s
+Step size: 0.3m
+Step delay: 0.8s
+Oscilación Z: [0.8, 2.2]m
+Offsets laterales: [0.0, -0.5, 0.5]
+
+--- Pasadas ---
+Pasada 1: Y_max=23.4m | Dist=27.5m | Steps=121
+Pasada 2: Y_max=23.3m | Dist=27.5m | Steps=120
+Pasada 3: Y_max=23.5m | Dist=27.3m | Steps=119

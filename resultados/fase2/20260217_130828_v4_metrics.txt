@@ -1,0 +1,24 @@
+============================================================
+INSPECCIÓN AUTÓNOMA — Fase 2 v4 — MÉTRICAS
+============================================================
+Fecha: 2026-02-17 13:08:28
+Patrón: Centro→ParedIzq→Scan→Centro→ParedDer→Scan→Avanza
+Waypoints totales: 142
+Steps totales: 1695
+Distancia total: 241.6m
+Tiempo total: 1404.2s (23.4min)
+Velocidad promedio: 0.172 m/s
+Emergency stops: 266
+Map blocks: 0
+Skipped waypoints: 13
+
+--- Parámetros v4 ---
+Step delay: 0.4s
+Max step XY: 0.25m
+Max step Z: 0.2m
+HARD_STOP: 0.5m
+SOFT_STOP: 0.8m
+Wall distance: 1.5m
+Z range: [0.8, 3.5]m
+Y step: 2.0m
+Sensor yaw offset: 0.0000 rad

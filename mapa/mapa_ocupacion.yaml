@@ -1,0 +1,6 @@
+image: /home/gustavo/tesis/resultados_fase2/tunnel_map.pgm
+resolution: 0.050000
+origin: [-10.089999, -10.170001, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
